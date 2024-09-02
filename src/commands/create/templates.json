@@ -1,8 +1,8 @@
 {
   "choices": [
     {
-      "name": "cra-react-ts",
-      "value": "git@github.com:zzcyes/cra-react-ts.git",
+      "name": "react-boilerplate-cra-template",
+      "value": "git@github.com:zzcyes/react-boilerplate-cra-template.git",
       "description": "基于 create-react-app 生成的 typescript 模板"
     },
     {
